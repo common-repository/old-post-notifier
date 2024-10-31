@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Old Post Notifier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-26 10:45+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Davide Borlizzi <webmaster@borlos.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: old-post-notifier.php:89
+#, php-format
+msgid "This post was published <strong>%s</strong> ago which may make its actuality or expire date not be valid anymore. This site is not responsible for any misunderstanding."
+msgstr "Questo articolo è stato pubblicato <strong>%s</strong> giorni fa quindi alcuni contenuti o informazioni presenti in esso potrebbero non essere più validi. Questo sito non è responsabile per eventuali errori causati da questo problema."
+
+#: old-post-notifier.php:92
+msgid "I have downloaded Old Post Notifier"
+msgstr "Ho scaricato Old Post Notifier"
+
+#: old-post-notifier.php:93
+#, php-format
+msgid "I installed the plugin to %s."
+msgstr "Ho installato il plugin per %s."
+
+#: old-post-notifier.php:192
+#, php-format
+msgid " %d day"
+msgid_plural " %d days"
+msgstr[0] "%d giorno"
+msgstr[1] "%d giorni"
+
+#: old-post-notifier.php:196
+#, php-format
+msgid " %d year"
+msgid_plural " %d years"
+msgstr[0] "%d anno "
+msgstr[1] "%d anni "
+
+#: old-post-notifier.php:200
+#, php-format
+msgid " %d month"
+msgid_plural " %d months"
+msgstr[0] "%d mese "
+msgstr[1] "%d mesi "
+
+#: old-post-notifier.php:221
+msgid "Settings Saved."
+msgstr "Configurazioni Salvate."
+
+#: old-post-notifier.php:227
+msgid "Minimum Days"
+msgstr "Minumim Giorni"
+
+#: old-post-notifier.php:228
+msgid "Time limitation of old post notification."
+msgstr "Tempo limite, in giorni,  dopo il quale compare l'avviso."
+
+#: old-post-notifier.php:231
+msgid "Exclude Categories"
+msgstr "Escludi Categorie"
+
+#: old-post-notifier.php:232
+msgid "Enter comma-seperated category IDs to exclude them from warning message"
+msgstr "Inserisci, saparate dalla virgola, gli ID delle categorie sulle quali non vuoi che compaia l'avviso"
+
+#: old-post-notifier.php:235
+msgid "Background Color"
+msgstr "Colore dello sfondo"
+
+#: old-post-notifier.php:239
+msgid "Text Color"
+msgstr "Colore del Testo"
+
+#: old-post-notifier.php:243
+msgid "Border Color"
+msgstr "Colore del Bordo"
+
+#: old-post-notifier.php:247
+msgid "Link Color"
+msgstr "Colore del Link"
+
+#: old-post-notifier.php:251
+msgid "Warning Message"
+msgstr "Messaggio di avviso"
+
+#: old-post-notifier.php:252
+msgid "Don't forget to add %old_date% where you want the time to appear in your message."
+msgstr "Non dimenticare di aggiungere %old_date% dove vuoi che compaia l'età del tuo post nel tuo messaggio"
+
+#: old-post-notifier.php:264
+msgid "Preview"
+msgstr "Anteprima"
+
+#: old-post-notifier.php:274
+msgid "Save Changes"
+msgstr "Salva le Modifiche"
+
+#: old-post-notifier.php:279
+#, php-format
+msgid "Follow me on <a href=\"%1$s\" target=\"_blank\">Twitter</a> and <a href=\"%2$s\" target=\"_blank\">Friendfeed</a><br />"
+msgstr "Seguimi su <a href=\"%1$s\" target=\"_blank\">Twitter</a> e <a href=\"%2$s\" target=\"_blank\">Friendfeed</a><br />"
+
+#: old-post-notifier.php:280
+#, php-format
+msgid "For more information and support, visit <a href=\"%s\" target=\"_blank\">plugin</a> page<br />"
+msgstr "Per ulteriori informazioni e supporto, visita la pagina del <a href=\"%s\" target=\"_blank\">plugin</a><br />"
+
